@@ -1,0 +1,7 @@
+local Music = Instance.new("Sound")
+Music.Parent = game:GetService("Workspace")
+Music.Name = "Music123"
+Music.Looped = true
+Music.Playing = true
+Music.SoundId = "rbxassetid://6119321300"	
+Music.Volume = 10
